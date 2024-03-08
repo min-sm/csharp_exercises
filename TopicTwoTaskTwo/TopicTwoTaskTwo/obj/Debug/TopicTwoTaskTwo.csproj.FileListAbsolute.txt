@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\bin\Debug\TopicTwoTaskTwo.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\bin\Debug\TopicTwoTaskTwo.exe
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\bin\Debug\TopicTwoTaskTwo.pdb
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\obj\Debug\TopicTwoTaskTwo.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\obj\Debug\TopicTwoTaskTwo.frmRunAway.resources
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\obj\Debug\TopicTwoTaskTwo.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\obj\Debug\TopicTwoTaskTwo.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\obj\Debug\TopicTwoTaskTwo.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\obj\Debug\TopicTwoTaskTwo.exe
+D:\New Folder\Programming\C#\NCC (C#)\TopicTwoTaskTwo\TopicTwoTaskTwo\obj\Debug\TopicTwoTaskTwo.pdb

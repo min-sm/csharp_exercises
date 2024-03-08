@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\bin\Debug\TestForTopic3.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\bin\Debug\TestForTopic3.exe
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\bin\Debug\TestForTopic3.pdb
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\obj\Debug\TestForTopic3.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\obj\Debug\TestForTopic3.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\obj\Debug\TestForTopic3.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\obj\Debug\TestForTopic3.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\obj\Debug\TestForTopic3.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\obj\Debug\TestForTopic3.exe
+D:\New Folder\Programming\C#\NCC (C#)\TestForTopic3\TestForTopic3\obj\Debug\TestForTopic3.pdb

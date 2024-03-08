@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\bin\Debug\Topic6Test.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\bin\Debug\Topic6Test.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\bin\Debug\Topic6Test.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\obj\Debug\Topic7Test2.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\obj\Debug\Topic6Test.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\obj\Debug\Topic6Test.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\obj\Debug\Topic7Test2.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\obj\Debug\Topic7Test2.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\obj\Debug\Topic6Test.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Test2\Topic6Test\obj\Debug\Topic6Test.pdb

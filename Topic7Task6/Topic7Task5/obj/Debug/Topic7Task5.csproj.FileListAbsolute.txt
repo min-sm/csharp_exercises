@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\bin\Debug\Topic7Task5.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\bin\Debug\Topic7Task5.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\bin\Debug\Topic7Task5.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\obj\Debug\Topic7Task5.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\obj\Debug\Topic7Task5.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\obj\Debug\Topic7Task5.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\obj\Debug\Topic7Task5.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\obj\Debug\Topic7Task5.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\obj\Debug\Topic7Task5.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic7Task5\Topic7Task5\obj\Debug\Topic7Task5.pdb

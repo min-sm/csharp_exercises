@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\bin\Debug\Topic6Task.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\bin\Debug\Topic6Task.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\bin\Debug\Topic6Task.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\obj\Debug\Topic6Task.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\obj\Debug\Topic6Task.FrmCashMachine.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\obj\Debug\Topic6Task.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\obj\Debug\Topic6Task.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\obj\Debug\Topic6Task.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\obj\Debug\Topic6Task.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic6Task\Topic6Task\obj\Debug\Topic6Task.pdb

@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\bin\Debug\Topic4Task3.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\bin\Debug\Topic4Task3.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\bin\Debug\Topic4Task3.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\obj\Debug\Topic4Task3.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\obj\Debug\Topic4Task3.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\obj\Debug\Topic4Task3.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\obj\Debug\Topic4Task3.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\obj\Debug\Topic4Task3.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\obj\Debug\Topic4Task3.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task3\Topic4Task3\obj\Debug\Topic4Task3.pdb

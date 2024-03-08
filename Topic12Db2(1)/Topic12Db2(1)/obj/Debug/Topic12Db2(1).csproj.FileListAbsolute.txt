@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\bin\Debug\Topic12Db2(1).exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\bin\Debug\Topic12Db2(1).exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\bin\Debug\Topic12Db2(1).pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\obj\Debug\Topic12Db2(1).csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\obj\Debug\Topic12Db2_1_.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\obj\Debug\Topic12Db2_1_.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\obj\Debug\Topic12Db2(1).csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\obj\Debug\Topic12Db2(1).csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\obj\Debug\Topic12Db2(1).exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic12Db2(1)\Topic12Db2(1)\obj\Debug\Topic12Db2(1).pdb

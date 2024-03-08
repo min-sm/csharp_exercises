@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\bin\Debug\Topic8Test0.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\bin\Debug\Topic8Test0.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\bin\Debug\Topic8Test0.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\obj\Debug\Topic8Test1.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\obj\Debug\Topic8Test0.frmInheritance.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\obj\Debug\Topic8Test0.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\obj\Debug\Topic8Test1.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\obj\Debug\Topic8Test1.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\obj\Debug\Topic8Test0.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic8Test0 - Copy\Topic8Test0\obj\Debug\Topic8Test0.pdb

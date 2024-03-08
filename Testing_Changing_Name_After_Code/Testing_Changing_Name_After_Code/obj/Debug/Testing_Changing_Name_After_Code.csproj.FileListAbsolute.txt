@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\bin\Debug\Testing_Changing_Name_After_Code.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\bin\Debug\Testing_Changing_Name_After_Code.exe
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\bin\Debug\Testing_Changing_Name_After_Code.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\obj\Debug\Testing_Changing_Name_After_Code.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\obj\Debug\Testing_Changing_Name_After_Code.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\obj\Debug\Testing_Changing_Name_After_Code.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\obj\Debug\Testing_Changing_Name_After_Code.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\obj\Debug\Testing_Changing_Name_After_Code.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\obj\Debug\Testing_Changing_Name_After_Code.exe
+D:\New Folder\Programming\C#\NCC (C#)\Testing_Changing_Name_After_Code\Testing_Changing_Name_After_Code\obj\Debug\Testing_Changing_Name_After_Code.pdb

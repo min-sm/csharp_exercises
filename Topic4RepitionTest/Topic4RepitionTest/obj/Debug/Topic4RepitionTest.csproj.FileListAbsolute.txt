@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\bin\Debug\Topic4RepitionTest.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\bin\Debug\Topic4RepitionTest.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\bin\Debug\Topic4RepitionTest.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\obj\Debug\Topic4RepitionTest.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\obj\Debug\Topic4RepitionTest.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\obj\Debug\Topic4RepitionTest.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\obj\Debug\Topic4RepitionTest.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\obj\Debug\Topic4RepitionTest.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\obj\Debug\Topic4RepitionTest.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic4RepitionTest\Topic4RepitionTest\obj\Debug\Topic4RepitionTest.pdb

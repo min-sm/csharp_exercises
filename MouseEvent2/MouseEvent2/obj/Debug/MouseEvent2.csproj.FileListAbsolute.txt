@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\bin\Debug\MouseEvent2.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\bin\Debug\MouseEvent2.exe
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\bin\Debug\MouseEvent2.pdb
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\obj\Debug\MouseEvent2.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\obj\Debug\MouseEvent2.frmMouse.resources
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\obj\Debug\MouseEvent2.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\obj\Debug\MouseEvent2.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\obj\Debug\MouseEvent2.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\obj\Debug\MouseEvent2.exe
+D:\New Folder\Programming\C#\NCC (C#)\MouseEvent2\MouseEvent2\obj\Debug\MouseEvent2.pdb

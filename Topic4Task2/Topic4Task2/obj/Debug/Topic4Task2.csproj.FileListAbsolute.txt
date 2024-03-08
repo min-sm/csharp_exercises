@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\bin\Debug\Topic4Task2.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\bin\Debug\Topic4Task2.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\bin\Debug\Topic4Task2.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\obj\Debug\Topic4Task2.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\obj\Debug\Topic4Task2.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\obj\Debug\Topic4Task2.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\obj\Debug\Topic4Task2.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\obj\Debug\Topic4Task2.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\obj\Debug\Topic4Task2.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic4Task2\Topic4Task2\obj\Debug\Topic4Task2.pdb

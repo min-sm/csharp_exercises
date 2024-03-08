@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\bin\Debug\Topic5Test.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\bin\Debug\Topic5Test.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\bin\Debug\Topic5Test.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\obj\Debug\Topic5Test.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\obj\Debug\Topic5Test.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\obj\Debug\Topic5Test.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\obj\Debug\Topic5Test.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\obj\Debug\Topic5Test.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\obj\Debug\Topic5Test.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic5Test\Topic5Test\obj\Debug\Topic5Test.pdb

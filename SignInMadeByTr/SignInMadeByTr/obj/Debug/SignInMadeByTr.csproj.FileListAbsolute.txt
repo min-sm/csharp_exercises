@@ -1,0 +1,11 @@
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\bin\Debug\SignInMadeByTr.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\bin\Debug\SignInMadeByTr.exe
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\bin\Debug\SignInMadeByTr.pdb
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.frmRegister.resources
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.exe
+D:\New Folder\Programming\C#\NCC (C#)\SignInMadeByTr\SignInMadeByTr\obj\Debug\SignInMadeByTr.pdb

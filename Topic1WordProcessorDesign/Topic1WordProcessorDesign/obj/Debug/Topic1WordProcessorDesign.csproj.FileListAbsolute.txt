@@ -1,0 +1,10 @@
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\bin\Debug\Topic1WordProcessorDesign.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\bin\Debug\Topic1WordProcessorDesign.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\bin\Debug\Topic1WordProcessorDesign.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\obj\Debug\Topic1WordProcessorDesign.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\obj\Debug\Topic1WordProcessorDesign.Form1.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\obj\Debug\Topic1WordProcessorDesign.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\obj\Debug\Topic1WordProcessorDesign.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\obj\Debug\Topic1WordProcessorDesign.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\obj\Debug\Topic1WordProcessorDesign.exe
+D:\New Folder\Programming\C#\NCC (C#)\Topic1WordProcessorDesign\Topic1WordProcessorDesign\obj\Debug\Topic1WordProcessorDesign.pdb
