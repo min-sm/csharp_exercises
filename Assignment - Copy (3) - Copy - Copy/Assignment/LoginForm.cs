@@ -62,7 +62,7 @@ namespace Assignment
                     MainForm mf = new MainForm(accountList, accIndex);
                     mf.Show();
                 }
-                this.Close();
+                this.Hide();
                 //MainForm mf = new MainForm(accountList, accIndex);
                 //mf.Show();
             }
@@ -92,9 +92,9 @@ namespace Assignment
 
         private void cmdRegister_Click(object sender, EventArgs e)
         {
-            RegisterForm registerForm = new RegisterForm(accountList, stFrm);
+            RegisterForm registerForm = new RegisterForm(accountList, this, stFrm);
             registerForm.Show();
-            this.Close();
+            this.Hide();
         }
 
         private void chkBxShowPwd_CheckedChanged(object sender, EventArgs e)
