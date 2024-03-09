@@ -17,7 +17,8 @@ namespace Assignment
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginForm());
+            //Application.Run(new LoginForm());
+            Application.Run(new StartingForm());
 
             //Account newAccount = new Account { Username = "msm123", Password = "aA1234567890", FirstName = "John", LastName = "Smith", BodyWeight = 500, TargetCalories = 250 };
             //AccountList list = new AccountList(newAccount);

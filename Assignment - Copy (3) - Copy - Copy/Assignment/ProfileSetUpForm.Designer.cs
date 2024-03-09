@@ -38,6 +38,7 @@
             this.txtBodyWeight = new System.Windows.Forms.TextBox();
             this.lblBodyWeight = new System.Windows.Forms.Label();
             this.cmdContinue = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblTellUsAbtUrself
@@ -140,12 +141,22 @@
             this.cmdContinue.UseVisualStyleBackColor = true;
             this.cmdContinue.Click += new System.EventHandler(this.cmdContinue_Click);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(28, 35);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 10;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // ProfileSetUpForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(70)))), ((int)(((byte)(79)))));
             this.ClientSize = new System.Drawing.Size(782, 413);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.cmdContinue);
             this.Controls.Add(this.txtTargetCalories);
             this.Controls.Add(this.lblTargetCalories);
@@ -159,7 +170,7 @@
             this.Name = "ProfileSetUpForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ProfileSetUpForm";
-            //this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ProfileSetUpForm_FormClosing);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ProfileSetUpForm_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -177,5 +188,6 @@
         private System.Windows.Forms.TextBox txtBodyWeight;
         private System.Windows.Forms.Label lblBodyWeight;
         private System.Windows.Forms.Button cmdContinue;
+        private System.Windows.Forms.Button button1;
     }
 }

@@ -93,6 +93,7 @@
             this.cmdCalculate = new System.Windows.Forms.Button();
             this.cmdUserGuide = new System.Windows.Forms.Button();
             this.lblUserGuide = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.gpBxWalking.SuspendLayout();
             this.gpBxSwimming.SuspendLayout();
@@ -754,12 +755,22 @@
             this.lblUserGuide.Text = resources.GetString("lblUserGuide.Text");
             this.lblUserGuide.Visible = false;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(533, 491);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(179, 54);
+            this.button1.TabIndex = 20;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(171)))), ((int)(((byte)(172)))));
             this.ClientSize = new System.Drawing.Size(1447, 566);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lblUserGuide);
             this.Controls.Add(this.cmdUserGuide);
             this.Controls.Add(this.cmdCalculate);
@@ -871,5 +882,6 @@
         private System.Windows.Forms.Button cmdCalculate;
         private System.Windows.Forms.Button cmdUserGuide;
         private System.Windows.Forms.Label lblUserGuide;
+        private System.Windows.Forms.Button button1;
     }
 }

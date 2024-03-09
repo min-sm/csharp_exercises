@@ -19,18 +19,29 @@ namespace Assignment
         string confirm_password = "";
 
         private AccountList accountList;
+        StartingForm stFrm;
 
         // Constructor that takes an AccountList parameter
-        private LoginForm loginForm;
+        //private LoginForm loginForm;
 
         // Constructor that takes an AccountList parameter
-        public RegisterForm(AccountList accountList, LoginForm loginForm)
+        //public RegisterForm(AccountList accountList, LoginForm loginForm, StartingForm stFrm)
+        //{
+        //    InitializeComponent();
+
+        //    // Assign the passed AccountList to the local variable
+        //    this.accountList = accountList;
+        //    this.loginForm = loginForm;
+        //    this.stFrm = stFrm;
+        //}
+
+        public RegisterForm(AccountList accountList, StartingForm stFrm)
         {
             InitializeComponent();
 
             // Assign the passed AccountList to the local variable
             this.accountList = accountList;
-            this.loginForm = loginForm;
+            this.stFrm = stFrm;
         }
 
         private void cmdRegister_Click(object sender, EventArgs e)
@@ -78,7 +89,9 @@ namespace Assignment
                 if (yesAccountCreate)
                 {
                     // Prompting message box to let user know that the account is successfully is handled in the AccountList.cs
-                    loginForm.Show();
+                    //loginForm.Show();
+                    LoginForm lgFrm = new LoginForm();
+                    lgFrm.Show();
                     this.Close();
                 }
                 // Else case for if the username isn't available is handled in the AccountList.cs
@@ -168,10 +181,11 @@ namespace Assignment
             }
         }
 
-        //private void RegisterForm_FormClosing(object sender, FormClosingEventArgs e)
-        //{
-        //    System.Diagnostics.Process.GetCurrentProcess().Kill();
-        //    Application.Exit();
-        //}
+        private void RegisterForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            //System.Diagnostics.Process.GetCurrentProcess().Kill();
+            //Application.Exit();
+            stFrm.Close();
+        }
     }
 }

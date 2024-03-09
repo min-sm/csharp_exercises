@@ -19,16 +19,18 @@ namespace Assignment
         string lastName;
         string bodyWeightText;
         string targetCaloriesText;
+        StartingForm stFrm;
         public ProfileSetUpForm()
         {
             InitializeComponent();
         }
 
-        public ProfileSetUpForm(AccountList passedAccList, int passedAccIndex)
+        public ProfileSetUpForm(AccountList passedAccList, int passedAccIndex, StartingForm stFrm)
         {
             InitializeComponent();
             accountList = passedAccList;
             accIndex = passedAccIndex;
+            this.stFrm = stFrm;
         }
 
         private void cmdContinue_Click(object sender, EventArgs e)
@@ -85,10 +87,11 @@ namespace Assignment
         }
 
 
-        //private void ProfileSetUpForm_FormClosing(object sender, FormClosingEventArgs e)
-        //{
-        //    System.Diagnostics.Process.GetCurrentProcess().Kill();
-        //    Application.Exit();
-        //}
+        private void ProfileSetUpForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            //System.Diagnostics.Process.GetCurrentProcess().Kill();
+            //Application.Exit();
+            stFrm.Close();
+        }
     }
 }
