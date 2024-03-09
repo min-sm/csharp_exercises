@@ -1,0 +1,12 @@
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\bin\Debug\AssignmentDraft.exe
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\bin\Debug\AssignmentDraft.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.frmLogin.resources
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.RegisterForm.resources
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.Test.resources
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.exe
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\obj\Debug\AssignmentDraft.pdb
+D:\New Folder\Programming\C#\NCC (C#)\AssignmentDraft\AssignmentDraft\bin\Debug\AssignmentDraft.pdb

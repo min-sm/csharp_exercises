@@ -1,0 +1,13 @@
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\bin\Debug\Assignment.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\bin\Debug\Assignment.exe
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\bin\Debug\Assignment.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.LoginForm.resources
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.exe
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.RegisterForm.resources
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.MainForm.resources
+D:\New Folder\Programming\C#\NCC (C#)\Assignment\Assignment\obj\Debug\Assignment.ProfileSetUpForm.resources
