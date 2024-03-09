@@ -59,7 +59,7 @@ namespace Assignment
                 }
                 else
                 {
-                    MainForm mf = new MainForm(accountList, accIndex);
+                    MainForm mf = new MainForm(accountList, accIndex, this, stFrm);
                     mf.Show();
                 }
                 this.Hide();
@@ -86,7 +86,7 @@ namespace Assignment
 
         private void openProfileSetUpForm(AccountList passedAccList, int passedAccIndex)
         {
-            ProfileSetUpForm profileSetUpForm = new ProfileSetUpForm(passedAccList, passedAccIndex, stFrm);
+            ProfileSetUpForm profileSetUpForm = new ProfileSetUpForm(passedAccList, passedAccIndex, stFrm, this);
             profileSetUpForm.Show();
         }
 

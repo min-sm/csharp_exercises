@@ -34,24 +34,23 @@ namespace Assignment
         double basketballHeart, basketballTime, basketballNumOfShots;
         double wrestleHeart, wrestleTimeTaken, wrestleTakedown;
 
+        LoginForm lgFrm;
+        StartingForm stFrm;
 
-        public MainForm()
+        private void lblBackToLogin_Click(object sender, EventArgs e)
         {
-            InitializeComponent();
+            lgFrm.Show();
+            this.Hide();
         }
 
-        public MainForm(Account acc)
-        {
-            InitializeComponent();
-            this.acc = acc;
-        }
-
-        public MainForm(AccountList accountList, int currentIndex)
+        public MainForm(AccountList accountList, int currentIndex, LoginForm lgFrm, StartingForm stFrm)
         {
             InitializeComponent();
             this.accountList = accountList;
             acc = this.accountList.returnSelectedAccountObj(currentIndex);
             this.currentIndex = currentIndex;
+            this.lgFrm = lgFrm;
+            this.stFrm = stFrm;
         }
 
         // Main function to calculate calorie burn
@@ -72,6 +71,7 @@ namespace Assignment
         {
             System.Diagnostics.Process.GetCurrentProcess().Kill();
             Application.Exit();
+            stFrm.Close();
         }
 
         // Start of checkedChanged event handler functions

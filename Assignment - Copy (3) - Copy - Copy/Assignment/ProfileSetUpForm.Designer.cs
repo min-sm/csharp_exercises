@@ -38,7 +38,7 @@
             this.txtBodyWeight = new System.Windows.Forms.TextBox();
             this.lblBodyWeight = new System.Windows.Forms.Label();
             this.cmdContinue = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.lblBackToLogin = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblTellUsAbtUrself
@@ -141,14 +141,17 @@
             this.cmdContinue.UseVisualStyleBackColor = true;
             this.cmdContinue.Click += new System.EventHandler(this.cmdContinue_Click);
             // 
-            // button1
+            // lblBackToLogin
             // 
-            this.button1.Location = new System.Drawing.Point(28, 35);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 10;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.lblBackToLogin.AutoSize = true;
+            this.lblBackToLogin.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBackToLogin.ForeColor = System.Drawing.Color.White;
+            this.lblBackToLogin.Location = new System.Drawing.Point(27, 51);
+            this.lblBackToLogin.Name = "lblBackToLogin";
+            this.lblBackToLogin.Size = new System.Drawing.Size(113, 20);
+            this.lblBackToLogin.TabIndex = 10;
+            this.lblBackToLogin.Text = "< Back to Login";
+            this.lblBackToLogin.Click += new System.EventHandler(this.lblBackToLogin_Click);
             // 
             // ProfileSetUpForm
             // 
@@ -156,7 +159,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(70)))), ((int)(((byte)(79)))));
             this.ClientSize = new System.Drawing.Size(782, 413);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.lblBackToLogin);
             this.Controls.Add(this.cmdContinue);
             this.Controls.Add(this.txtTargetCalories);
             this.Controls.Add(this.lblTargetCalories);
@@ -188,6 +191,6 @@
         private System.Windows.Forms.TextBox txtBodyWeight;
         private System.Windows.Forms.Label lblBodyWeight;
         private System.Windows.Forms.Button cmdContinue;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label lblBackToLogin;
     }
 }

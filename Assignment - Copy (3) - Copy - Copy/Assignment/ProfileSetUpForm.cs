@@ -20,17 +20,19 @@ namespace Assignment
         string bodyWeightText;
         string targetCaloriesText;
         StartingForm stFrm;
+        LoginForm lgFrm;
         public ProfileSetUpForm()
         {
             InitializeComponent();
         }
 
-        public ProfileSetUpForm(AccountList passedAccList, int passedAccIndex, StartingForm stFrm)
+        public ProfileSetUpForm(AccountList passedAccList, int passedAccIndex, StartingForm stFrm, LoginForm lgFrm)
         {
             InitializeComponent();
             accountList = passedAccList;
             accIndex = passedAccIndex;
             this.stFrm = stFrm;
+            this.lgFrm = lgFrm;
         }
 
         private void cmdContinue_Click(object sender, EventArgs e)
@@ -81,8 +83,8 @@ namespace Assignment
 
             accountList.profileSetup(firstName, lastName, bodyWeight, targetCalories, accIndex);
             accountList.changingToNotFirstTime(accIndex);
-            this.Close();
-            MainForm mf = new MainForm(accountList, accIndex);
+            this.Hide();
+            MainForm mf = new MainForm(accountList, accIndex, lgFrm, stFrm);
             mf.Show();
         }
 
@@ -92,6 +94,13 @@ namespace Assignment
             //System.Diagnostics.Process.GetCurrentProcess().Kill();
             //Application.Exit();
             stFrm.Close();
+            //lgFrm.Close();
+        }
+
+        private void lblBackToLogin_Click(object sender, EventArgs e)
+        {
+            lgFrm.Show();
+            this.Hide();
         }
     }
 }

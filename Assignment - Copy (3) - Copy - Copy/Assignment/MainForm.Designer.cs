@@ -93,7 +93,7 @@
             this.cmdCalculate = new System.Windows.Forms.Button();
             this.cmdUserGuide = new System.Windows.Forms.Button();
             this.lblUserGuide = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.lblBackToLogin = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.gpBxWalking.SuspendLayout();
             this.gpBxSwimming.SuspendLayout();
@@ -755,14 +755,17 @@
             this.lblUserGuide.Text = resources.GetString("lblUserGuide.Text");
             this.lblUserGuide.Visible = false;
             // 
-            // button1
+            // lblBackToLogin
             // 
-            this.button1.Location = new System.Drawing.Point(533, 491);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(179, 54);
-            this.button1.TabIndex = 20;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.lblBackToLogin.AutoSize = true;
+            this.lblBackToLogin.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblBackToLogin.ForeColor = System.Drawing.Color.Orange;
+            this.lblBackToLogin.Location = new System.Drawing.Point(413, 496);
+            this.lblBackToLogin.Name = "lblBackToLogin";
+            this.lblBackToLogin.Size = new System.Drawing.Size(149, 28);
+            this.lblBackToLogin.TabIndex = 20;
+            this.lblBackToLogin.Text = "< Back to Login";
+            this.lblBackToLogin.Click += new System.EventHandler(this.lblBackToLogin_Click);
             // 
             // MainForm
             // 
@@ -770,7 +773,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(117)))), ((int)(((byte)(171)))), ((int)(((byte)(172)))));
             this.ClientSize = new System.Drawing.Size(1447, 566);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.lblBackToLogin);
             this.Controls.Add(this.lblUserGuide);
             this.Controls.Add(this.cmdUserGuide);
             this.Controls.Add(this.cmdCalculate);
@@ -882,6 +885,6 @@
         private System.Windows.Forms.Button cmdCalculate;
         private System.Windows.Forms.Button cmdUserGuide;
         private System.Windows.Forms.Label lblUserGuide;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label lblBackToLogin;
     }
 }
