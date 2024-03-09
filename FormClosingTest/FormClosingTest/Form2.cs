@@ -36,7 +36,13 @@ namespace FormClosingTest
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Test2");
+            this.Hide();
+            frm1.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Test");
         }
     }
 }
