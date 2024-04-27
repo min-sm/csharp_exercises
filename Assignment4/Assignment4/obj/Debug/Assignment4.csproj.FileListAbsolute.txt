@@ -1,0 +1,12 @@
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\AssignmentDraft.RegisterForm.resources
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\AssignmentDraft.Test.resources
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+D:\New Folder\Programming\C#\NCC (C#)\Assignment4\Assignment4\obj\Debug\AssignmentDraft.LoginForm.resources
